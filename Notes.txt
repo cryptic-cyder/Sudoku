@@ -1,0 +1,6 @@
+         Full project github link
+https://github.com/Techies-Code/Sudoku_Solver
+
+          N-Queen tutorials (Techies code channel)
+//https://www.youtube.com/watch?v=4FQFwCivD8E
+
